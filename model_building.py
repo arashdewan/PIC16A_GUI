@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[11]:
-
-
 import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
@@ -49,10 +46,6 @@ import pickle
 pickle.dump(T, open("model.p", "wb"))
 T2 = pickle.load(open("model.p", "rb"))
 T2.score(X_test, y_test)
-
-
-# In[ ]:
-
 
 
 
