@@ -1,2 +1,2 @@
 # PIC16A_GUI
-step by step process on creating machine learning models on graphical user interfaces.
+process on creating machine learning models on graphical user interfaces based on the AnimalSpecies program.
